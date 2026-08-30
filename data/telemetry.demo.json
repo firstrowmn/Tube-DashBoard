@@ -1,0 +1,8 @@
+{
+  "generatedAt":"2026-08-30T10:20:00+07:00",
+  "measurements":[
+    {"deviceId":"DEMO-001","lossPercent":2.1,"measuredAt":"2026-08-30T10:19:00+07:00"},
+    {"deviceId":"DEMO-002","lossPercent":16.4,"measuredAt":"2026-08-30T10:19:00+07:00"},
+    {"deviceId":"DEMO-003","lossPercent":34.2,"measuredAt":"2026-08-30T10:19:00+07:00"}
+  ]
+}
