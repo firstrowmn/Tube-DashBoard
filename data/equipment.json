@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "НСК_Метрополитен_терминалы.xlsx",
+  "note": "Точные АКП/IP должны быть импортированы из исходной таблицы. Строки с номером КП = MT исключить.",
+  "stations": [
+    {"id":"zaeltsovskaya","name":"Заельцовская","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"gagarinskaya","name":"Гагаринская","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"krasny-prospekt","name":"Красный проспект","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"ploshchad-lenina","name":"Площадь Ленина","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"oktyabrskaya","name":"Октябрьская","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"rechnoy-vokzal","name":"Речной вокзал","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1 / проход 1","devices":[]},{"name":"Вестибюль 1 / проход 2","devices":[]},{"name":"Вестибюль 2 / проход 1","devices":[]},{"name":"Вестибюль 2 / проход 2","devices":[]}]},
+    {"id":"studenceskaya","name":"Студенческая","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"ploshchad-marksa","name":"Площадь Маркса","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"ploshchad-garina-mikhailovskogo","name":"Площадь Гарина-Михайловского","line":"Дзержинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"sibirskaya","name":"Сибирская","line":"Дзержинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"marshala-pokryshkina","name":"Маршала Покрышкина","line":"Дзержинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"berezovaya-roscha","name":"Берёзовая роща","line":"Дзержинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"zolotaya-niva","name":"Золотая Нива","line":"Дзержинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]},
+    {"id":"sportivnaya","name":"Спортивная","line":"Ленинская","turnstileLines":[{"name":"Вестибюль 1","devices":[]},{"name":"Вестибюль 2","devices":[]}]}
+  ]
+}
