@@ -1,0 +1,4 @@
+.data/
+.integration-data/
+node_modules/
+.env

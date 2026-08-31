@@ -1,0 +1,13 @@
+{
+  "name": "metro-link-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard and telemetry API for Novosibirsk Metro",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
